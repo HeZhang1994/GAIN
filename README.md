@@ -1,4 +1,4 @@
-# Generative Adversarial Imputation Networks (GAIN)
+# Generative Adversarial Imputation Networks (GAIN) - work20190218
 Title: GAIN: Missing Data Imputation using Generative Adversarial Nets
 
 Authors: Jinsung Yoon, James Jordon, Mihaela van der Schaar
